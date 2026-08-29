@@ -20,16 +20,16 @@
 
 <!-- ══════════════════ CONNECT ══════════════════ -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-USERNAME">
+  <a href="www.linkedin.com/in/maheen-ul-muslim-463b8135a">
     <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:mah.een8q@gmail.com">
     <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://leetcode.com/YOUR-USERNAME">
+  <a href="https://leetcode.com/u/PGKwLuNEEY/">
     <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-URL">
+  <a href="https://portfolio-maheen-2026.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -37,7 +37,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,50:7c3aed,100:2563eb&height=3&section=header" width="100%" />
 
 <!-- ══════════════════ ABOUT ══════════════════ -->
-<img align="right" width="300" src="PASTE_GIF_URL_HERE" alt="coding" />
+<img align="right" width="300" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,50:7c3aed,100:2563eb&height=3&section=header" alt="coding" />
 
 ## About Me
 
@@ -54,7 +54,6 @@ I like understanding how things work under the hood. Build it from scratch, brea
 
 <br clear="right" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,50:7c3aed,100:2563eb&height=3&section=header" width="100%" />
 
 <!-- ══════════════════ TECH STACK ══════════════════ -->
 ## Tech Stack
@@ -112,11 +111,11 @@ I like understanding how things work under the hood. Build it from scratch, brea
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,50:7c3aed,100:2563eb&height=3&section=header" width="100%" />
 
 ##Competitive Programming
-<p align="center"> <img width="46%" src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" /> <img width="46%" src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=10" /> </p>
+<p align="center"> <img width="46%" src="https://leetcard.jacoblin.cool/u/PGKwLuNEEY/?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" /> </p>
 
 Currently drilling graphs, dynamic programming, and binary search patterns. Solutions live in dsa-solutions.
 
-<p align="center"> <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/"> <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> <a href="https://codeforces.com/profile/YOUR-CF-HANDLE"> <img src="https://img.shields.io/badge/Codeforces-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /> </a> <a href="https://www.codechef.com/users/YOUR-CC-HANDLE"> <img src="https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /> </a> <a href="https://www.hackerrank.com/profile/YOUR-HR-HANDLE"> <img src="https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DYOUR-CF-HANDLE&query=%24.result%5B0%5D.rating&label=Codeforces%20Rating&style=flat-square&color=7C3AED&labelColor=1a0b2e&logo=codeforces&logoColor=white" /> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DYOUR-CF-HANDLE&query=%24.result%5B0%5D.rank&label=Rank&style=flat-square&color=2563EB&labelColor=1a0b2e" /> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,50:7c3aed,100:2563eb&height=3&section=header" width="100%" /> <!--
+<p align="center"> <a href="https://leetcode.com/u/PGKwLuNEEY/"> <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> <a href="https://codeforces.com/profile/mah.een8q"> <img src="https://img.shields.io/badge/Codeforces-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /> </a> <a href="https://www.codechef.com/users/cheer_petal_95"> <img src="https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /> </a> <a href="https://www.vjudge.net/user/mah_een5415"> <img src="https://img.shields.io/badge/vjudge-7C3AED?style=for-the-badge&logo=vjudge&logoColor=white" alt="VJudge" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DYOUR-CF-HANDLE&query=%24.result%5B0%5D.rating&label=Codeforces%20Rating&style=flat-square&color=7C3AED&labelColor=1a0b2e&logo=codeforces&logoColor=white" /> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DYOUR-CF-HANDLE&query=%24.result%5B0%5D.rank&label=Rank&style=flat-square&color=2563EB&labelColor=1a0b2e" /> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,50:7c3aed,100:2563eb&height=3&section=header" width="100%" /> <!--
 <!-- ══════════════════ GITHUB STATS ══════════════════ -->
 ## GitHub Stats
 
