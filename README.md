@@ -3,22 +3,21 @@
 </p>
 
 <h3 align="center">Let's Connect</h3>
-
 <p align="center">
   <a href="https://leetcode.com/u/PGKwLuNEEY/">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="www.linkedin.com/in/maheen-ul-muslim-463b8135a" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="mailto:mah.een8q@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail" width="40" height="40" alt="Email" />
   </a>
   <a href="https://github.com/maheen8q">
-    <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub" />
   </a>
-  <a href="https://codeforces.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/Codeforces-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  <a href="https://codeforces.com/mah.een8q">
+    <img src="https://cdn.simpleicons.org/codeforces" width="40" height="40" alt="Codeforces" />
   </a>
   <a href="https://instagram.com/mah.een5415">
-    <img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram" width="40" height="40" alt="Instagram" />
   </a>
 </p>
 
