@@ -144,7 +144,7 @@ Currently drilling **graphs, dynamic programming, and binary search patterns**.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-all-stats.vercel.app/api?username=maheen8q&v=1" alt="My GitHub Stats" />
+  <img src="https://github-all-stats.vercel.app/api?username=maheen8q&v=2" alt="My GitHub Stats" />
 </div>
 <!-- ══════════════════ FOOTER ══════════════════ -->
 <h3 align="center"><i>Build. Break. Learn. Rebuild.</i></h3>
