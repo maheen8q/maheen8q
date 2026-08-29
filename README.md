@@ -143,7 +143,7 @@ Currently drilling **graphs, dynamic programming, and binary search patterns**.
 <!-- ══════════════════ GITHUB STATS ══════════════════ -->
 ## GitHub Stats
 
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maheen8q&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9" /> <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheen8q&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=maheen8q&hide_border=true&background=0D1117&stroke=7C3AED&ring=8B5CF6&fire=2563EB&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=8b949e" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=maheen8q&theme=darkhub&no-frame=true&column=7&margin-w=8" /> </p> <!--
+<p align="center"> <img width="49%" src="./profile/stats.svg" alt="GitHub stats" /> <img width="41%" src="./profile/top-langs.svg" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=maheen8q&hide_border=true&background=0D1117&stroke=7C3AED&ring=8B5CF6&fire=2563EB&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=8b949e" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=maheen8q&theme=darkhub&no-frame=true&column=7&margin-w=8" /> </p> <!--
 
 <!-- ══════════════════ FOOTER ══════════════════ -->
 <h3 align="center"><i>Build. Break. Learn. Rebuild.</i></h3>
