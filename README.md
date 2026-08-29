@@ -134,8 +134,8 @@ Currently drilling **graphs, dynamic programming, and binary search patterns**.
 
 <!-- Delete this block if you don't have a rated Codeforces account -->
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DCF-HANDLE&query=%24.result%5B0%5D.rating&label=Codeforces%20Rating&style=flat-square&color=7C3AED&labelColor=1a0b2e&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DCF-HANDLE&query=%24.result%5B0%5D.rank&label=Rank&style=flat-square&color=2563EB&labelColor=1a0b2e" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dmah.een8q&query=%24.result%5B0%5D.rating&label=Codeforces%20Rating&style=flat-square&color=7C3AED&labelColor=1a0b2e&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dmah.een8q&query=%24.result%5B0%5D.rank&label=Rank&style=flat-square&color=2563EB&labelColor=1a0b2e" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,50:7c3aed,100:2563eb&height=3&section=header" width="100%" />
