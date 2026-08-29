@@ -111,7 +111,7 @@ I like understanding how things work under the hood. Build it from scratch, brea
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,50:7c3aed,100:2563eb&height=3&section=header" width="100%" />
 
 ##Competitive Programming
-<p align="center"> <img width="46%" src="https://leetcard.jacoblin.cool/u/PGKwLuNEEY/?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" /> </p>
+<p align="center"> <img width="46%" src="https://leetcard.jacoblin.cool/u/PGKwLuNEEY/?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" /> <img width="46%" src="https://leetcard.jacoblin.cool/u/PGKwLuNEEY/?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=10" /> </p>
 
 Currently drilling graphs, dynamic programming, and binary search patterns. Solutions live in dsa-solutions.
 
