@@ -113,10 +113,7 @@ I like understanding how things work under the hood. Build it from scratch, brea
 <!-- ══════════════════ COMPETITIVE PROGRAMMING ══════════════════ -->
 ## Competitive Programming
 
-<p align="center">
-  <img width="46%" src="https://leetcard.jacoblin.cool/PGKwLuNEEY?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" />
-  <img width="46%" src="https://leetcard.jacoblin.cool/PGKwLuNEEY?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=10" />
-</p>
+<table align="center"> <tr> <td width="50%" valign="top" align="center"> <a href="https://leetcode.com/u/PGKwLuNEEY/"> <img width="100%" src="https://leetcard.jacoblin.cool/PGKwLuNEEY?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" alt="LeetCode stats" /> </a> </td> <td width="50%" valign="top" align="center"> <a href="https://codeforces.com/profile/CF-HANDLE"> <img width="100%" src="https://codeforces-readme-stats.vercel.app/api/card?username=CF-HANDLE&theme=dark" alt="Codeforces stats" /> </a> </td> </tr> </table>
 
 Currently drilling **graphs, dynamic programming, and binary search patterns**.
 
@@ -147,16 +144,16 @@ Currently drilling **graphs, dynamic programming, and binary search patterns**.
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GH-USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH-USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maheen8q&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheen8q&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GH-USERNAME&hide_border=true&background=0D1117&stroke=7C3AED&ring=8B5CF6&fire=2563EB&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com?user=maheen8q&hide_border=true&background=0D1117&stroke=7C3AED&ring=8B5CF6&fire=2563EB&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=8b949e" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GH-USERNAME&theme=darkhub&no-frame=true&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maheen8q&theme=darkhub&no-frame=true&column=7&margin-w=8" />
 </p>
 
 <!-- ══════════════════ FOOTER ══════════════════ -->
