@@ -20,7 +20,7 @@
   <a href="https://instagram.com/mah.een5415">
     <img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://codeforces.com/profile/mah.een5415">
+  <a href="https://codeforces.com/profile/mah.een8q">
     <img src="https://img.shields.io/badge/Codeforces-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
