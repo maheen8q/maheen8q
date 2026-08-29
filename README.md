@@ -28,3 +28,66 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ppNG4xZjJzZXRkdmJ1Z3oyZzJyejZzb2FldWRja3FrNmZwbWJwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yMocMAF7vTfEKGPwVB/giphy.gif" width="500" alt="coding gif" />
 </p>
+## About Me
+
+CS student at **NED University**, building across **backend, AI/ML, and DevOps**.
+
+I like understanding how things work under the hood. Build it from scratch, break it, fix it, make it better. Most of what I do sits where the whole pipeline meets rather than inside a single stack:
+
+**Idea → Backend → AI/ML → Database → API → Docker → CI/CD → Deployment**
+
+- 🔭 Building **DevHub**, a developer platform with project analysis and AI career tooling
+- 🌱 Going deep on **Kubernetes, System Design, MLOps, and RAG systems**
+- 🧩 Grinding **DSA and competitive programming** on the side
+- 🤝 Outside code: team leadership, research, and community projects
+
+## Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,php,js,postgres&theme=dark" />
+</p>
+
+**AI / Machine Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+  <img src="https://img.shields.io/badge/Pandas-7C3AED?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-7C3AED?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-7C3AED?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-7C3AED?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
+</p>
+
+**Backend & Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,vite,html,css,supabase&theme=dark" />
+</p>
+
+**DevOps & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vscode,bash&theme=dark" />
+</p>
+
+**Currently Exploring**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" />
+  <img src="https://img.shields.io/badge/System%20Design-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/MLOps-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangGraph-2563EB?style=flat-square" />
+</p>
+
+## Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **IssuePilot** | AI bug triage that predicts issue priority, tags components, and surfaces similar issues | FastAPI, React, Scikit-learn |
+| **Spam Detector** | NLP SMS classifier using TF-IDF and Random Forest | Scikit-learn, Streamlit |
+| **DSA Visualizer** | Interactive visualisation of data structures and algorithms | JavaScript |
+| **DevHub** *(building)* | Developer platform: profiles, project analysis, AI career tools | FastAPI, React, PostgreSQL, LLMs |
+
+> **Build. Break. Learn. Rebuild.**
