@@ -143,10 +143,17 @@ Currently drilling **graphs, dynamic programming, and binary search patterns**.
 <!-- ══════════════════ GITHUB STATS ══════════════════ -->
 ## GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/maheen8q/maheen8q/main/profile/stats.svg" alt="GitHub stats" />
-  <img width="41%" src="https://raw.githubusercontent.com/maheen8q/maheen8q/main/profile/top-langs.svg" alt="Top languages" />
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=maheen8q&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=maheen8q&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=maheen8q&show_icons=true" />
+</picture>
 <!-- ══════════════════ FOOTER ══════════════════ -->
 <h3 align="center"><i>Build. Break. Learn. Rebuild.</i></h3>
 
