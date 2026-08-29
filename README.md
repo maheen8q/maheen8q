@@ -1,6 +1,11 @@
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:7c3aed,100:2563eb&height=180&section=header&text=MAHEEN-UL-MUSLIM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+  />
+</p>
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20👋&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=50&fontAlignY=40"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Exploring+AI+%2F+ML+%26+DevOps;Building+cool+stuff+one+bug+at+a+time."
   />
 </p>
