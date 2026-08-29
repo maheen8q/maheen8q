@@ -9,3 +9,6 @@
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Exploring+AI+%2F+ML+%26+DevOps;Building+cool+stuff+one+bug+at+a+time."
   />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ppNG4xZjJzZXRkdmJ1Z3oyZzJyejZzb2FldWRja3FrNmZwbWJwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/z7wIVXPnpm1DiJDdsU/giphy.gif" width="200">
+</p>
