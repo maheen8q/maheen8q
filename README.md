@@ -12,7 +12,7 @@
 
 <p align="center">
   <img 
-    src="[https://media.giphy.com/media/z7wIVXPnpm1DiJDdsU/giphy.gif]"
+    src="[https://media.giphy.com/media/z7wIVXPnpm1DiJDdsU/giphy.gif]](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ppNG4xZjJzZXRkdmJ1Z3oyZzJyejZzb2FldWRja3FrNmZwbWJwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yMocMAF7vTfEKGPwVB/giphy.gif)"
     width="150"
   />
 </p>
