@@ -111,6 +111,12 @@ I like understanding how things work under the hood. Build it from scratch, brea
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,50:7c3aed,100:2563eb&height=3&section=header" width="100%" />
 
+##Competitive Programming
+<p align="center"> <img width="46%" src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" /> <img width="46%" src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=10" /> </p>
+
+Currently drilling graphs, dynamic programming, and binary search patterns. Solutions live in dsa-solutions.
+
+<p align="center"> <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/"> <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> <a href="https://codeforces.com/profile/YOUR-CF-HANDLE"> <img src="https://img.shields.io/badge/Codeforces-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /> </a> <a href="https://www.codechef.com/users/YOUR-CC-HANDLE"> <img src="https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /> </a> <a href="https://www.hackerrank.com/profile/YOUR-HR-HANDLE"> <img src="https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DYOUR-CF-HANDLE&query=%24.result%5B0%5D.rating&label=Codeforces%20Rating&style=flat-square&color=7C3AED&labelColor=1a0b2e&logo=codeforces&logoColor=white" /> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DYOUR-CF-HANDLE&query=%24.result%5B0%5D.rank&label=Rank&style=flat-square&color=2563EB&labelColor=1a0b2e" /> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,50:7c3aed,100:2563eb&height=3&section=header" width="100%" /> <!--
 <!-- ══════════════════ GITHUB STATS ══════════════════ -->
 ## GitHub Stats
 
