@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZhazgwczdkbXU5bHVrYW93Y25iZnlxM3FvMHowNWMyNW9kbWt3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yMocMAF7vTfEKGPwVB/giphy.gif" width="700" alt="coding gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZhazgwczdkbXU5bHVrYW93Y25iZnlxM3FvMHowNWMyNW9kbWt3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yMocMAF7vTfEKGPwVB/giphy.gif" width="400" alt="coding gif" />
 </p>
 
 <!-- ══════════════════ TYPING ANIMATION ══════════════════ -->
