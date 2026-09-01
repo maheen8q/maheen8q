@@ -13,10 +13,10 @@
 </p>
 
 <!-- ══════════════════ MICRO STATS ══════════════════ -->
-<!-- REPLACE GH-USERNAME everywhere below with your GitHub username -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GH-USERNAME&label=Profile%20Views&color=7C3AED&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/GH-USERNAME?label=Followers&style=flat-square&color=7C3AED&labelColor=1a0b2e" />
+  <img src="https://komarev.com/ghpvc/?username=maheen8q&label=Profile%20Views&color=7C3AED&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/maheen8q?label=Followers&style=flat-square&color=7C3AED&labelColor=1a0b2e" />
   <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Infra-7C3AED?style=flat-square&labelColor=1a0b2e" />
   <img src="https://img.shields.io/badge/Based%20in-Karachi%2C%20PK-7C3AED?style=flat-square&labelColor=1a0b2e" />
 </p>
