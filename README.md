@@ -29,7 +29,7 @@
   <a href="mailto:mah.een8q@gmail.com">
     <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://leetcode.com/u/PGKwLuNEEY/">
+  <a href="https://leetcode.com/u/Maheen8q/">
     <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://portfolio-maheen-2026.vercel.app">
@@ -113,7 +113,7 @@ I like understanding how things work under the hood. Build it from scratch, brea
 <!-- ══════════════════ COMPETITIVE PROGRAMMING ══════════════════ -->
 ## Competitive Programming
 
-<table align="center"> <tr> <td width="50%" valign="top" align="center"> <a href="https://leetcode.com/u/Maheen8q"> <img width="100%" src="https://leetcard.jacoblin.cool/PGKwLuNEEY?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" alt="LeetCode stats" /> </a> </td> <td width="50%" valign="top" align="center"> <a href="https://codeforces.com/profile/CF-HANDLE"> <img width="100%" src="https://codeforces-readme-stats.vercel.app/api/card?username=mah.een8q&theme=dark" alt="Codeforces stats" /> </a> </td> </tr> </table>
+<table align="center"> <tr> <td width="50%" valign="top" align="center"> <a href="https://leetcode.com/u/Maheen8q"> <img width="100%" src="https://leetcard.jacoblin.cool/Maheen8q?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" alt="LeetCode stats" /> </a> </td> <td width="50%" valign="top" align="center"> <a href="https://codeforces.com/profile/mah.een8q"> <img width="100%" src="https://codeforces-readme-stats.vercel.app/api/card?username=mah.een8q&theme=dark" alt="Codeforces stats" /> </a> </td> </tr> </table>
 
 Currently drilling **graphs, dynamic programming, and binary search patterns**.
 
@@ -121,7 +121,7 @@ Currently drilling **graphs, dynamic programming, and binary search patterns**.
   <a href="https://leetcode.com/u/Maheen8q/">
     <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://codeforces.com/profile/CF-HANDLE">
+  <a href="https://codeforces.com/profile/mah.een8q">
     <img src="https://img.shields.io/badge/Codeforces-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://www.codechef.com/users/cheer_petal_95">
